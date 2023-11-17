@@ -1,0 +1,19 @@
+{
+  "name": "express-stockjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "call-body": "node src/scripts/call-body.js",
+    "call-header": "node src/scripts/call-header.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}

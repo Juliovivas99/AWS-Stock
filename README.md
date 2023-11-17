@@ -1,2 +1,0 @@
-# AWS-Stock
-# AWS-Stock
